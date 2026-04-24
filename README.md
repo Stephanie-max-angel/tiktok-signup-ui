@@ -27,7 +27,7 @@ This project is a front-end UI clone of a TikTok-style signup page. It focuses o
 * CSS3
 * Flexbox
 * Google Fonts (Poppins)
-* Ionicons (if used)
+* Ionicons (ionic icons)
 
 ---
 
