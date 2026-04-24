@@ -87,7 +87,7 @@ Example:
 ## 👤 Author
 
 * Your Name: Stephanie-max-angel
-* GitHub: *[https://github.com/your-username](https://github.com/Stephanie-max-angel)*
+* GitHub: https://github.com/Stephanie-max-angel
 
 ---
 
